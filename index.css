@@ -1,0 +1,13 @@
+.body{
+    font-family:monospace;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/76cf8e62037097.5a82c499ecf23.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+};
+.appliance {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
